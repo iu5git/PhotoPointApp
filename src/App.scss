@@ -1,0 +1,29 @@
+.app {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    padding: 2vh 2vw;
+
+    &-r-pannel {
+        width: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-right: 2vw;
+    }
+
+    &-l-pannel {
+        width: auto;
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+
+        &-scale {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 10px;
+        }
+    }
+}
