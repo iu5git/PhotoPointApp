@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"],
+  "include": ["photopointapp/src"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
