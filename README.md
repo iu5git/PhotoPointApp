@@ -7,10 +7,9 @@
 ## Инструкция по работе в приложении
 
 - Для запуска приложения перейдите по ссылке https://iu5git.github.io/PhotoPointApp/
+![Image alt](photopointapp/screenshots/start.png)
 
-![Image alt](https://github.com/iu5git/PhotoPointApp/raw/main/photopointapp/screenshots/start.png)
-
-![Image alt](PhotoPointApp/screenshots/NIR.gif)
+![Image alt](photopointapp/screenshots/NIR.gif)
 
 - Загрузите изображение, кликнув по соответствующему полю:
 ![Image alt](PhotoPointApp/screenshots/1.png)
